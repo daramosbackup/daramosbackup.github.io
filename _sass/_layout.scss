@@ -76,9 +76,9 @@
       visibility: hidden;
       font-size: $base-font-size;
       position: absolute;
-      top: 20px;
+      top: 30px;
       left: 50%;
-      @include transform(translate(-50%, 0%));
+      @include transform(translate(-50%, 20%));
     }
     &:hover {
       color: $brand-color-light;
