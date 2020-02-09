@@ -15,7 +15,7 @@ social:
   links:
     - https://twitter.com/David_Ramos_S
     - https://github.com/DavidRamosSal
-    - https://jimeh.io/
+    #- https://jimeh.io/
     #- http://www.linkedin.com/in/jimeh
     #- http://www.last.fm/user/jimeh
     #- https://flickr.com/photos/jimeh/
@@ -31,10 +31,10 @@ email:
 
 links:
   - name: twitter
-    url: https://twitter.com/jimeh
+    url: https://twitter.com/David_Ramos_S
     class: fa-twitter
   - name: github
-    url: https://github.com/jimeh
+    url: https://github.com/DavidRamosSal
     class: fa-github
   #- name: blog
    # url: https://jimeh.io/
