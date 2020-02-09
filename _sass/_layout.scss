@@ -78,7 +78,7 @@
       position: absolute;
       top: 30px;
       left: 50%;
-      @include transform(translate(-50%, -30%));
+      @include transform(translate(-50%, 30%));
     }
     &:hover {
       color: $brand-color-light;
