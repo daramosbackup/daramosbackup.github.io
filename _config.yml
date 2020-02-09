@@ -1,28 +1,28 @@
-title: Jim Myhrberg (jimeh)
-description: Crazy-Ass Software Engineering Mercenary
+title: David Ramos 
+description: Physicist 
 author:
-  name: Jim Myhrberg
-  nickname: jimeh
-  twitter: jimeh
-hostname: jimeh.me # used to determine if google analytics should be triggered
-url: https://jimeh.me # the base hostname & protocol for your site
+  name: David Ramos
+  nickname: 
+  twitter: David_Ramos_S
+#hostname: jimeh.me # used to determine if google analytics should be triggered
+#url: https://jimeh.me # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
 # stuff for jekyll-seo-tag
 social:
-  name: Jim Myhrberg
+  name: David Ramos
   links:
-    - https://twitter.com/jimeh
-    - https://github.com/jimeh
+    - https://twitter.com/David_Ramos_S
+    - https://github.com/DavidRamosSal
     - https://jimeh.io/
-    - http://www.linkedin.com/in/jimeh
-    - http://www.last.fm/user/jimeh
-    - https://flickr.com/photos/jimeh/
-    - https://keybase.io/jimeh
+    #- http://www.linkedin.com/in/jimeh
+    #- http://www.last.fm/user/jimeh
+    #- https://flickr.com/photos/jimeh/
+    #- https://keybase.io/jimeh
 
 twitter:
-  username: jimeh
+  username: David_Ramos_S
 
 # main page content
 email:
@@ -36,27 +36,27 @@ links:
   - name: github
     url: https://github.com/jimeh
     class: fa-github
-  - name: blog
-    url: https://jimeh.io/
-    class: fa-medium
-  - name: linkedin
-    url: https://www.linkedin.com/in/jimeh
-    class: fa-linkedin
-  - name: last.fm
-    url: https://www.last.fm/user/jimeh
-    class: fa-lastfm
-  - name: flickr
-    url: https://flickr.com/photos/jimeh
-    class: fa-flickr
-  - name: vcard
-    id: vcard
-    type: download
-    url: http://assets.jimeh.me/jim-myhrberg.vcf
-    class: fa-user
+  #- name: blog
+   # url: https://jimeh.io/
+   # class: fa-medium
+  #- name: linkedin
+   # url: https://www.linkedin.com/in/jimeh
+   # class: fa-linkedin
+  #- name: last.fm
+   # url: https://www.last.fm/user/jimeh
+   # class: fa-lastfm
+  #- name: flickr
+   # url: https://flickr.com/photos/jimeh
+   # class: fa-flickr
+  #- name: vcard
+   # id: vcard
+   # type: download
+   # url: http://assets.jimeh.me/jim-myhrberg.vcf
+   # class: fa-user
   - name: cv (pdf)
     id: resume
     type: download
-    url: http://assets.jimeh.me/jim-myhrberg-cv.pdf
+    url: https://github.com/DavidRamosSal/CV-English-/raw/master/cv.pdf
     class: fa-file-text-o
 
 # additional stuff
